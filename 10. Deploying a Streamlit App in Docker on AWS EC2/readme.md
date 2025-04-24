@@ -32,8 +32,7 @@ Go to AWS Console → VPC Dashboard → Create VPC
 - **Name:** MyCustomVPC  
 - **IPv4 CIDR block:** 10.0.0.0/16  
 
-![img1](https://github.com/vidhi-jaju/DockSpace/blob/84980abb1c4a643320f44cdf69efd0a0547dec32/10.%20Deploying%20a%20Streamlit%20App%20in%20Docker%20on%20AWS%20EC2/Images/1.png)
-
+![img1]https://github.com/Ishikavermaa/DockSpace/blob/master/10.%20Deploying%20a%20Streamlit%20App%20in%20Docker%20on%20AWS%20EC2/Images/1.png)
 ### 🔹 Create a Subnet
 Go to VPC Dashboard → Subnets → Create Subnet  
 - **Select:** MyCustomVPC  
